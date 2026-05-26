@@ -1,0 +1,1 @@
+Extensión creada para integrar MacroDev a VS Code
