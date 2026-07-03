@@ -40,7 +40,7 @@
 ---
 
 
-MacroDev Extension for VS Code
+# MacroDev Extension for VS Code
 
 La extensión oficial de MacroDev que actúa como puente entre tu entorno de desarrollo y tu dispositivo móvil. Esta herramienta permite ejecutar scripts de terminal, gestionar procesos de Node.js y controlar tu entorno local sin tocar el teclado.
 🚀 Características Principales
