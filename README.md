@@ -44,8 +44,9 @@ Abre la paleta de comandos (Ctrl+Shift+P o Cmd+Shift+P en Mac) y escribe:
 🔒 Seguridad
 
 La comunicación entre la extensión y tu dispositivo móvil utiliza tokens de autenticación para asegurar que solo tú puedas ejecutar comandos en tu entorno de desarrollo.
-🤝 Contribución
 
-Este proyecto forma parte del ecosistema MacroDev. Si encuentras algún bug, por favor abre un Issue en este repositorio.
+🤝 Contribuciones
 
-Desarrollado para potenciar la productividad en el desarrollo Full Stack.
+Este proyecto es una pieza de portafolio personal. Si deseas sugerir mejoras de UI/UX o correcciones en el contenido, siéntete libre de abrir un Pull Request.
+
+Landing page diseñada y mantenida por [William / Zireuz] Linkedin: https://www.linkedin.com/in/zireuz-software. Contacto: +57 3156374818 Correo: willdevmor@gmail.com
